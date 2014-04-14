@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mmackintosh/.vim'
+let g:netrw_dirhist_2='/Users/mmackintosh/rockethome'
+let g:netrw_dirhist_3='/Users/mmackintosh/.vim/bundle/vim-fugitive'
+let g:netrw_dirhist_4='/Users/mmackintosh'
+let g:netrw_dirhist_5='/Users/mmackintosh/projects/utils/puppet'
+let g:netrw_dirhist_6='/Users/mmackintosh/projects/utils/puppet/src/modules/roles/manifests/shuttermap'
+let g:netrw_dirhist_7='/Users/mmackintosh/projects/utils/puppet/src'
