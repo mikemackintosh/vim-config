@@ -8,3 +8,6 @@
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline
+[submodule "bundle/vim-sqlutilities"]
+	path = bundle/vim-sqlutilities
+	url = git@github.com:vim-scripts/SQLUtilities.git
