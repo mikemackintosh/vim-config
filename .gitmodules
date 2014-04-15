@@ -14,3 +14,6 @@
 [submodule "bundle/vim-align"]
 	path = bundle/vim-align
 	url = git@github.com:vim-scripts/Align.git
+[submodule "bundle/sudo.vim"]
+	path = bundle/sudo.vim
+	url = https://github.com/vim-scripts/sudo.vim.git
