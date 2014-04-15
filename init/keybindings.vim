@@ -30,6 +30,9 @@ nmap <C-t>      :tabedit<CR>
 
 map <leader>x   :tabclose<CR>
 
+" vimshell https://github.com/Shougo/vimshell.vim/blob/master/doc/vimshell.txt
+map <leader>S   :VimShellCurrentDir<CR>
+
 " create new tab and launch command-T
 map <silent> <leader>T   <leader>t<leader>f
 " create new split and launch command-T
@@ -110,7 +113,7 @@ nmap du :diffupdate<CR>
 map <leader>u :GundoToggle<CR>
 
 " vim-gitgutter toggle
-map <leader>gg :GitGutterToggle<CR>
+" map <leader>gg :GitGutterToggle<CR>
 
 " paste toggling.
 nnoremap <F2> :set invpaste paste?<CR>
