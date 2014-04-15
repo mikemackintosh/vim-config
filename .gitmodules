@@ -11,3 +11,6 @@
 [submodule "bundle/vim-sqlutilities"]
 	path = bundle/vim-sqlutilities
 	url = git@github.com:vim-scripts/SQLUtilities.git
+[submodule "bundle/vim-align"]
+	path = bundle/vim-align
+	url = git@github.com:vim-scripts/Align.git
