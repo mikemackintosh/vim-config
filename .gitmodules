@@ -17,3 +17,6 @@
 [submodule "bundle/sudo.vim"]
 	path = bundle/sudo.vim
 	url = https://github.com/vim-scripts/sudo.vim.git
+[submodule "bundle/vim-moria"]
+	path = bundle/vim-moria
+	url = https://github.com/vim-scripts/moria.git
