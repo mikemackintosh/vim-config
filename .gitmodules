@@ -1,19 +1,18 @@
 [submodule "bundle/vimproc.vim"]
 	path = bundle/vimproc.vim
-	url = git@github.com:Shougo/vimproc.vim.git
+	url = https://github.com/Shougo/vimproc.vim.git
 [submodule "bundle/vim-over"]
 	path = bundle/vim-over
-	url = git@github.com:osyo-manga/vim-over.git
-
+	url = https://github.com/osyo-manga/vim-over.git
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline
 [submodule "bundle/vim-sqlutilities"]
 	path = bundle/vim-sqlutilities
-	url = git@github.com:vim-scripts/SQLUtilities.git
+	url = https://github.com/vim-scripts/SQLUtilities.git
 [submodule "bundle/vim-align"]
 	path = bundle/vim-align
-	url = git@github.com:vim-scripts/Align.git
+	url = https://github.com/vim-scripts/Align.git
 [submodule "bundle/sudo.vim"]
 	path = bundle/sudo.vim
 	url = https://github.com/vim-scripts/sudo.vim.git
